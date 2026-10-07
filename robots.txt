@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Disallow: /01-clean-wellness.html
