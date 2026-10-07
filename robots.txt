@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /01-clean-wellness.html
 
-Sitemap: https://pilates-tlamim.onrender.com/sitemap-main.xml
+Sitemap: https://pilates-tlamim.onrender.com/sitemap
